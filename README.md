@@ -60,12 +60,6 @@ The objective of this Kaggle competition was to classify user-preferred response
 
 ---
 
-## 🧑‍💻 **Author**
-
-**Your Name**  
-- LinkedIn: [your-linkedin-link]
-- GitHub: [your-github-profile-link]
-- Portfolio: [your-portfolio-link]
 
 ---
 
